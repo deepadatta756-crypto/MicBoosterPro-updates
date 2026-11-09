@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.3.4",
-  "apkUrl": "https://github.com/deepadatta756-crypto/MicBoosterPro-updates/releases/download/v1.3.4/app-release.apk",
-  "changelog": "Limiter fix: awaaz ab kabhi dabegi nahi. Gain fix: sirf upar, kabhi neeche nahi. Default gain 15 guna, auto-gain 15 guna, booster 20 guna.",
+  "versionCode": 10,
+  "versionName": "1.3.5",
+  "apkUrl": "https://github.com/deepadatta756-crypto/MicBoosterPro-updates/releases/download/v1.3.5/app-release.apk",
+  "changelog": "Default gain now 25x, gain slider up to 1500x, and the whole app is now in English.",
   "forceUpdate": false
 }
