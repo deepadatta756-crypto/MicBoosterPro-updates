@@ -1,1 +1,7 @@
-{"versionCode": 8, "versionName": "1.3.3", "apkUrl": "https://github.com/deepadatta756-crypto/MicBoosterPro-updates/releases/download/v1.3.3/app-release.apk", "changelog": "Admin key activation: naam ek baar, key ek baar, phir admin approval se mic chalega. Mic, gain, limiter — kuch nahi badla.", "forceUpdate": false}
+{
+  "versionCode": 9,
+  "versionName": "1.3.4",
+  "apkUrl": "https://github.com/deepadatta756-crypto/MicBoosterPro-updates/releases/download/v1.3.4/app-release.apk",
+  "changelog": "Limiter fix: awaaz ab kabhi dabegi nahi. Gain fix: sirf upar, kabhi neeche nahi. Default gain 15 guna, auto-gain 15 guna, booster 20 guna.",
+  "forceUpdate": false
+}
