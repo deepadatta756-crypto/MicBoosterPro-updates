@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.4.1",
-  "apkUrl": "https://github.com/deepadatta756-crypto/MicBoosterPro-updates/releases/download/v1.4.1/app-release.apk",
-  "changelog": "Settings: removed the long Rescue note. Rescue switch stays visible; the explanation is in the update dialog checkbox. Mic unchanged.",
+  "versionCode": 13,
+  "versionName": "1.4.2",
+  "apkUrl": "https://github.com/deepadatta756-crypto/MicBoosterPro-updates/releases/download/v1.4.2/app-release.apk",
+  "changelog": "New: 'Rescue Booster' button on the home screen (OFF by default). No more key — panel Approve + ON/OFF controls the mic. Mic unchanged.",
   "forceUpdate": false
 }
