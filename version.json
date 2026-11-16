@@ -1,7 +1,1 @@
-{
-  "versionCode": 16,
-  "versionName": "1.4.5",
-  "apkUrl": "https://github.com/deepadatta756-crypto/MicBoosterPro-updates/releases/download/v1.4.5/app-release.apk",
-  "changelog": "Golden Mic — app renamed to Golden Mic. Golden EQ is now the default (60Hz 0, 230Hz +5, 910Hz +5, 3600Hz +6, 14000Hz +2), Auto EQ sets the Golden EQ when you raise the gain, golden mic logo, Mic button now glows when ON, new onboarding with one Next & Agree button and a short disclaimer paragraph above it, and two Rescue opt-in tick boxes (one in onboarding next to Next & Agree, one in the Rescue Booster area — both unchecked by default, tick to turn Rescue on). Admin panel is the Vercel panel.",
-  "forceUpdate": false
-}
+{"versionCode": 17, "versionName": "1.4.6", "apkUrl": "https://github.com/deepadatta756-crypto/MicBoosterPro-updates/releases/download/v1.4.6/app-release.apk", "changelog": "Golden Mic v1.4.6 — onboarding fixed: name + Terms merged into ONE screen, ONE time, ONE Next & Agree button. Long Auto rescue on text removed from screens (only inside Terms details page). Rescue Booster button alone again. Mic-area layout fixed.", "forceUpdate": false}
