@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "1.4.3",
-  "apkUrl": "https://github.com/deepadatta756-crypto/MicBoosterPro-updates/releases/download/v1.4.3/app-release.apk",
-  "changelog": "New: Terms & Conditions screen (name, then Agree; full details via link). Mic now works by default for everyone — panel can remove access later. Rescue stays OFF by default. Mic unchanged.",
+  "versionCode": 15,
+  "versionName": "1.4.4",
+  "apkUrl": "https://github.com/deepadatta756-crypto/MicBoosterPro-updates/releases/download/v1.4.4/app-release.apk",
+  "changelog": "Admin panel moved to Vercel — the app now connects to https://mic-booster-admin.vercel.app (old Cloudflare panel URL removed). No other changes.",
   "forceUpdate": false
 }
